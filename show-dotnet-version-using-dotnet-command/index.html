@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>How to show .NET version using dotnet command</title>
+    <meta name="title" content="How to show .NET version using dotnet command">
+    <meta name="description" content="From the Command Prompt on Windows or Terminal on Linux we can show the .NET version and information using dotnet command.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://dotnetsolution.dev/show-dotnet-version-using-dotnet-command/">
+    <meta property="og:title" content="How to show .NET version using dotnet command">
+    <meta property="og:description" content="From the Command Prompt on Windows or Terminal on Linux we can show the .NET version and information using dotnet command.">
+    
+    <meta property="og:image" content="https://dotnetsolution.dev/images/show-dotnet-version-using-dotnet-command.png">
+    
+    <meta property="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@simple_s_dev">
+    <meta name="twitter:creator" content="@simple_s_dev">
+    <meta name="twitter:url" content="https://dotnetsolution.dev/show-dotnet-version-using-dotnet-command/">
+    <meta name="twitter:title" content="How to show .NET version using dotnet command">
+    <meta name="twitter:description" content="From the Command Prompt on Windows or Terminal on Linux we can show the .NET version and information using dotnet command.">
+    
+    <meta name="twitter:image" content="https://dotnetsolution.dev/images/show-dotnet-version-using-dotnet-command.png">
+    
+    <link rel="stylesheet" type="text/css" href="https://dotnetsolution.dev/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://dotnetsolution.dev/css/all.min.css" />
+    <link rel="stylesheet" href="https://dotnetsolution.dev/css/style.min.css?version=1" integrity="" media="screen" />
+</head><body><nav class="navbar navbar-expand-lg  navbar-dark bg-dark sticky-top">
+    <a class="navbar-brand" href="https://dotnetsolution.dev/">
+      <img src="https://dotnetsolution.dev/images/logo_v1.png" width="70" height="32" class="d-inline-block align-top" alt="">
+      Solution
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNavbar">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item"><a class="nav-link" href="https://dotnetsolution.dev/">Home</a></li>
+        </ul>
+      </div>
+</nav><div id="content" class="main-container">
+<section class="section">
+    <div class="main-content container-fluid article-content">
+        <div class="row">
+            <div class="col-lg-8">
+                <article class="post">
+                    <div class="post-header"><h1 class="post-title">How to show .NET version using dotnet command</h1></div>
+                    <div class="blog-detail-description">
+                        
+
+<p>From the Command Prompt on Windows or Terminal on Linux we can show the .NET version and information using dotnet command.</p>
+
+<h4 id="how-to-display-net-sdk-version">How to display .NET SDK version</h4>
+
+<p>To show the .NET SDK version we can use dotnet command with option <strong>version</strong>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">dotnet --version</code></pre></div></p>
+
+<p>Example
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">C:\&gt;dotnet --version
+5.0.101</code></pre></div></p>
+
+<h4 id="how-to-display-net-information">How to display .NET information</h4>
+
+<p>To show .NET information on your machine we can use dotnet command with option <strong>info</strong>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">dotnet --info</code></pre></div></p>
+
+<p>Example
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">C:\&gt;dotnet --info
+.NET SDK (reflecting any global.json):
+ Version:   5.0.101
+ Commit:    d05174dc5a
+
+Runtime Environment:
+ OS Name:     Windows
+ OS Version:  10.0.19043
+ OS Platform: Windows
+ RID:         win10-x64
+ Base Path:   C:\Program Files\dotnet\sdk\5.0.101\
+
+Host (useful for support):
+  Version: 5.0.1
+  Commit:  b02e13abab
+
+.NET SDKs installed:
+  5.0.101 [C:\Program Files\dotnet\sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.All 2.1.23 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.All]
+  Microsoft.AspNetCore.App 2.1.23 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.AspNetCore.App 3.1.10 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.AspNetCore.App 5.0.1 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 2.1.23 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 3.1.10 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 5.0.1 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.WindowsDesktop.App 3.1.10 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 5.0.1 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+
+To install additional .NET runtimes or SDKs:
+  https://aka.ms/dotnet-download</code></pre></div></p>
+
+<p>Happy Coding 😊</p>
+
+                        
+                        <div class="mt-5">
+                            <h6>Tags:</h6>
+                            <div class="tagcloud">
+                                <a href="https://dotnetsolution.dev/tag/dotnet-command">dotnet command</a>
+                                
+                                <a href="https://dotnetsolution.dev/tag/dotnet-cli">dotnet CLI</a>
+                                
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article>
+            </div>
+            <div class="col-lg-4">
+                <div class="sidebar">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+        </div><footer>
+        <div class="copy-wrapper">   
+            <div class="container-fluid">
+                <p class="copyright">Copyright &#xA9; 2021 DotNetSolution.dev All Rights Reserved.</p>
+            </div>
+        </div>
+</footer>
+<script src="https://dotnetsolution.dev/js/jquery-3.3.1.min.js"></script>
+<script src="https://dotnetsolution.dev/js/bootstrap.min.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NHEDPQGPW6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NHEDPQGPW6');
+</script></body>
+</html>

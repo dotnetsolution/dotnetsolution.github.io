@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>.NET Solution</title>
-    <link>https://dotnetsolution.dev/</link>
-    <description>Recent content on .NET Solution</description>
+    <title>Dotnet Cli on .NET Solution</title>
+    <link>https://dotnetsolution.dev/tag/dotnet-cli/</link>
+    <description>Recent content in Dotnet Cli on .NET Solution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Mar 2021 23:42:32 +0700</lastBuildDate>
     
-	<atom:link href="https://dotnetsolution.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dotnetsolution.dev/tag/dotnet-cli/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
