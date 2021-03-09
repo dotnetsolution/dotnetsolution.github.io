@@ -6,19 +6,10 @@
     <description>Recent content in Categories on .NET Solution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 23:42:32 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:15:47 +0700</lastBuildDate>
     
 	<atom:link href="https://dotnetsolution.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>.Net</title>
-      <link>https://dotnetsolution.dev/.net/</link>
-      <pubDate>Mon, 08 Mar 2021 23:42:32 +0700</pubDate>
-      
-      <guid>https://dotnetsolution.dev/.net/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Asp.net</title>
@@ -26,6 +17,15 @@
       <pubDate>Wed, 10 Mar 2021 00:15:47 +0700</pubDate>
       
       <guid>https://dotnetsolution.dev/asp.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dotnet</title>
+      <link>https://dotnetsolution.dev/dotnet/</link>
+      <pubDate>Mon, 08 Mar 2021 23:42:32 +0700</pubDate>
+      
+      <guid>https://dotnetsolution.dev/dotnet/</guid>
       <description></description>
     </item>
     
