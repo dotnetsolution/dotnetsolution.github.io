@@ -6,15 +6,33 @@
     <description>Recent content in Tags on .NET Solution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 23:42:32 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:15:47 +0700</lastBuildDate>
     
 	<atom:link href="https://dotnetsolution.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Asp.net</title>
+      <link>https://dotnetsolution.dev/tag/asp.net/</link>
+      <pubDate>Wed, 10 Mar 2021 00:15:47 +0700</pubDate>
+      
+      <guid>https://dotnetsolution.dev/tag/asp.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asp.net Core</title>
+      <link>https://dotnetsolution.dev/tag/asp.net-core/</link>
+      <pubDate>Wed, 10 Mar 2021 00:15:47 +0700</pubDate>
+      
+      <guid>https://dotnetsolution.dev/tag/asp.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dotnet Cli</title>
       <link>https://dotnetsolution.dev/tag/dotnet-cli/</link>
-      <pubDate>Mon, 08 Mar 2021 23:42:32 +0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 00:15:47 +0700</pubDate>
       
       <guid>https://dotnetsolution.dev/tag/dotnet-cli/</guid>
       <description></description>
@@ -23,7 +41,7 @@
     <item>
       <title>Dotnet Command</title>
       <link>https://dotnetsolution.dev/tag/dotnet-command/</link>
-      <pubDate>Mon, 08 Mar 2021 23:42:32 +0700</pubDate>
+      <pubDate>Wed, 10 Mar 2021 00:15:47 +0700</pubDate>
       
       <guid>https://dotnetsolution.dev/tag/dotnet-command/</guid>
       <description></description>

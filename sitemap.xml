@@ -3,42 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dotnetsolution.dev/create-asp-net-core-web-application-using-dotnet-command/</loc>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dotnetsolution.dev/show-dotnet-version-using-dotnet-command/</loc>
     <lastmod>2021-03-08T23:42:32+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://dotnetsolution.dev/</loc>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetsolution.dev/.net/</loc>
     <lastmod>2021-03-08T23:42:32+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetsolution.dev/asp.net/</loc>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetsolution.dev/tag/asp.net/</loc>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dotnetsolution.dev/tag/asp.net-core/</loc>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetsolution.dev/categories/</loc>
+    <lastmod>2021-03-08T23:42:32+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetsolution.dev/tag/dotnet-cli/</loc>
-    <lastmod>2021-03-08T23:42:32+07:00</lastmod>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetsolution.dev/tag/dotnet-command/</loc>
-    <lastmod>2021-03-08T23:42:32+07:00</lastmod>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetsolution.dev/posts/</loc>
-    <lastmod>2021-03-08T23:42:32+07:00</lastmod>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dotnetsolution.dev/tags/</loc>
-    <lastmod>2021-03-08T23:42:32+07:00</lastmod>
+    <lastmod>2021-03-10T00:15:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,22 @@
     <description>Recent content in Posts on .NET Solution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 23:42:32 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:15:47 +0700</lastBuildDate>
     
 	<atom:link href="https://dotnetsolution.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create ASP.NET Core Web Application using dotnet command</title>
+      <link>https://dotnetsolution.dev/create-asp-net-core-web-application-using-dotnet-command/</link>
+      <pubDate>Wed, 10 Mar 2021 00:15:47 +0700</pubDate>
+      
+      <guid>https://dotnetsolution.dev/create-asp-net-core-web-application-using-dotnet-command/</guid>
+      <description>In this ASP.NET tutorial, we learn how to create a new ASP.NET core web application and run the application using dotnet command via Windows Command Prompt or Linux Terminal.
+How to create ASP.NET core web application From your Command Prompt, run the below command to create the new project. dotnet new webapp -o HelloApp --no-https
+In the above command we have:
+ dotnet new to create a new project. webapp to specify the ASP.</description>
+    </item>
     
     <item>
       <title>How to show .NET version using dotnet command</title>

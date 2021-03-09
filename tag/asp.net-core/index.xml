@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dotnet Cli on .NET Solution</title>
-    <link>https://dotnetsolution.dev/tag/dotnet-cli/</link>
-    <description>Recent content in Dotnet Cli on .NET Solution</description>
+    <title>Asp.net Core on .NET Solution</title>
+    <link>https://dotnetsolution.dev/tag/asp.net-core/</link>
+    <description>Recent content in Asp.net Core on .NET Solution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Mar 2021 00:15:47 +0700</lastBuildDate>
     
-	<atom:link href="https://dotnetsolution.dev/tag/dotnet-cli/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dotnetsolution.dev/tag/asp.net-core/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,18 +21,6 @@
 How to create ASP.NET core web application From your Command Prompt, run the below command to create the new project. dotnet new webapp -o HelloApp --no-https
 In the above command we have:
  dotnet new to create a new project. webapp to specify the ASP.</description>
-    </item>
-    
-    <item>
-      <title>How to show .NET version using dotnet command</title>
-      <link>https://dotnetsolution.dev/show-dotnet-version-using-dotnet-command/</link>
-      <pubDate>Mon, 08 Mar 2021 23:42:32 +0700</pubDate>
-      
-      <guid>https://dotnetsolution.dev/show-dotnet-version-using-dotnet-command/</guid>
-      <description>From the Command Prompt on Windows or Terminal on Linux we can show the .NET version and information using dotnet command.
-How to display .NET SDK version To show the .NET SDK version we can use dotnet command with option version dotnet --version
-Example C:\&amp;gt;dotnet --version 5.0.101
-How to display .NET information To show .NET information on your machine we can use dotnet command with option info dotnet --info</description>
     </item>
     
   </channel>
